@@ -1,0 +1,17 @@
+.table-wrapper {
+  background: #ccc;
+  margin: 50px 15px 20px;
+  height: calc(100vh - 110px);
+  overflow-y: auto;
+}
+.table-wrapper table {
+  width: 100%;
+}
+.table-wrapper table tr th {
+  text-transform: capitalize;
+  padding: 10px;
+}
+
+.table-wrapper table tr td {
+  padding: 10px;
+}
